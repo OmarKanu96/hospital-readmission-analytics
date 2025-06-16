@@ -21,7 +21,7 @@ This project analyzes synthetic hospital data to identify patterns in readmissio
 - Unexpectedly, non-readmitted patients had slightly higher average costs than those readmitted — suggesting further analysis needed
 
 ## 📈 Dashboard Preview
-(Insert screenshot or link to file)
+![Hospital Readmission Dashboard](file:///Users/omarkanu/Downloads/Hospital_Readmissions_Synthetic_Data%20(1).pdf)
 
 ## 📁 Files Included
 - Dashboard Excel file
