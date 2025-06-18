@@ -24,5 +24,5 @@ This project analyzes synthetic hospital data to identify patterns in readmissio
 ![Hospital Readmission Dashboard](https://github.com/OmarKanu96/hospital-readmission-analytics/blob/main/Hospital_Readmissions_Synthetic_Data%20(2).pdf)
 
 ## 📁 Files Included
-- Dashboard Excel file
+- ![Dashboard Excel file](https://1drv.ms/x/c/c8d5dcf9822e7dff/ESKfbhmXhrhNmWvMrI_ipsEBCe4pv4xdHRIgY1sThub9Ow?e=weRENf)
 - Synthetic dataset (for reproducibility)
