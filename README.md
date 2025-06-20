@@ -26,3 +26,12 @@ This project analyzes synthetic hospital data to identify patterns in readmissio
 ## 📁 Files Included
 - [Dashboard Excel file](https://1drv.ms/x/c/c8d5dcf9822e7dff/ESKfbhmXhrhNmWvMrI_ipsEBCe4pv4xdHRIgY1sThub9Ow?e=fLSLzI)
 - [Synthetic dataset (for reproducibility)](https://1drv.ms/x/c/c8d5dcf9822e7dff/ESKfbhmXhrhNmWvMrI_ipsEBCe4pv4xdHRIgY1sThub9Ow?e=lRxi7L)
+
+## 🚀 Next Steps / Recommendations
+
+- Implement follow-up protocols in high-risk departments (e.g., Neurology) to reduce repeat visits.
+- Conduct a total patient-level cost analysis to reveal hidden financial impact of repeat admissions.
+- Explore predictive modeling opportunities using readmission and demographic data.
+- Design age-specific interventions, especially for the 70+ group with the highest readmission rates.
+- Build additional dashboards for department heads to monitor readmission KPIs in real time.
+- Integrate EMR or insurance claim data for more advanced segmentation and forecasting.
