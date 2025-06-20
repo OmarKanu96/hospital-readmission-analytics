@@ -16,7 +16,9 @@ This project analyzes synthetic hospital data to identify patterns in readmissio
 
 ## 💡 Key Insights
 - Neurology had the highest readmission count and second-highest cost
+  - Suggests need for post-discharge follow-up.
 - Cardiology had the lowest readmission volume but the highest cost per patient
+  - Oppurtunity to manage high-cost acute cases.
 - 70+ age group had the highest readmissions (~30%)
 - Unexpectedly, non-readmitted patients had slightly higher average costs than those readmitted — suggesting further analysis needed
 
@@ -24,7 +26,7 @@ This project analyzes synthetic hospital data to identify patterns in readmissio
 ![Hospital Readmission Dashboard](https://github.com/OmarKanu96/hospital-readmission-analytics/blob/main/Hospital_Readmissions_Synthetic_Data%20(2).pdf)
 
 ## 📁 Files Included
-- [Dashboard Excel file](https://1drv.ms/x/c/c8d5dcf9822e7dff/ESKfbhmXhrhNmWvMrI_ipsEBCe4pv4xdHRIgY1sThub9Ow?e=fLSLzI)
+- [View Excel Dashboard](https://1drv.ms/x/c/c8d5dcf9822e7dff/ESKfbhmXhrhNmWvMrI_ipsEBCe4pv4xdHRIgY1sThub9Ow?e=fLSLzI)
 - [Synthetic dataset (for reproducibility)](https://1drv.ms/x/c/c8d5dcf9822e7dff/ESKfbhmXhrhNmWvMrI_ipsEBCe4pv4xdHRIgY1sThub9Ow?e=lRxi7L)
 
 ## 🚀 Next Steps / Recommendations
