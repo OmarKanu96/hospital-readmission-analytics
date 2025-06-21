@@ -29,11 +29,26 @@ This project analyzes synthetic hospital data to identify patterns in readmissio
 - [View Excel Dashboard](https://1drv.ms/x/c/c8d5dcf9822e7dff/ESKfbhmXhrhNmWvMrI_ipsEBCe4pv4xdHRIgY1sThub9Ow?e=fLSLzI)
 - [Synthetic dataset (for reproducibility)](https://1drv.ms/x/c/c8d5dcf9822e7dff/ESKfbhmXhrhNmWvMrI_ipsEBCe4pv4xdHRIgY1sThub9Ow?e=lRxi7L)
 
+---
+
 ## 🚀 Next Steps / Recommendations
 
-- Implement follow-up protocols in high-risk departments (e.g., Neurology) to reduce repeat visits.
-- Conduct a total patient-level cost analysis to reveal hidden financial impact of repeat admissions.
-- Explore predictive modeling opportunities using readmission and demographic data.
-- Design age-specific interventions, especially for the 70+ group with the highest readmission rates.
-- Build additional dashboards for department heads to monitor readmission KPIs in real time.
-- Integrate EMR or insurance claim data for more advanced segmentation and forecasting.
+- **Implement follow-up protocols in high-risk departments (Neurology)**
+  - Focus on reducing readmission volume
+  - Monitor post-discharge outcomes using week-long check-ins
+
+- **Conduct total patient-level cost analysis**
+  - Combine multi-visit data to fully assess cost impact of readmissions
+
+- **Explore predictive modeling**
+  - Use discharge data to flag high-risk patients before they leave
+
+- **Design age-specific interventions**
+  - Seniors (70+) have highest readmission volume
+  - Aim to reduce their rate by 10% within 6 months via remote check-ins
+
+- **Build department-level dashboards**
+  - Create visuals for Neurology and Cardiology teams to monitor KPIs in real time
+
+- **Integrate additional data sources**
+  - Bring in EMR or insurance claim data for deeper segmentation and forecasting
